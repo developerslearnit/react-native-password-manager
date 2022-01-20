@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Apple",
+    "icon": "apple.png"
+  },
+  {
+    "id": "2",
+    "name": "Blogger",
+    "icon": "blogger.png"
+  },
+  {
+    "id": "3",
+    "name": "Dropbox",
+    "icon": "dropbox.png"
+  },
+  {
+    "id": "4",
+    "name": "Gmail",
+    "icon": "gmail.png"
+  },
+  {
+    "id": "5",
+    "name": "Heroku",
+    "icon": "heroku.png"
+  },
+  {
+    "id": "6",
+    "name": "Outlook",
+    "icon": "outlook.png"
+  },
+  {
+    "id": "7",
+    "name": "Skype",
+    "icon": "skype.png"
+  },
+  {
+    "id": "8",
+    "name": "Slack",
+    "icon": "slack.png"
+  }
+]
